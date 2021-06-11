@@ -1,0 +1,38 @@
+#
+#	Følgende vil blive sat ind, SÅ SNART du har tastet genvejene
+#
+#	:?*:GENVEJ		;	ERSTATNING		; 	evt KOMMENTAR
+#
+	:?*:,ahk 		; 	Autohotkey		
+	:?*:,ddo		;	https://ordnet.dk/ddo/ordbog?query=		; Slå et ord op på Den Store Danske Ordbog
+	:?*:,synonym		;	https://synonymet.dk/ord/			; Slå et ord op på synonymordbogen
+	:?*:/topa		;	/top/?sort=top&t=all	;	Til Reddit
+	:?*:/topm		;	/top/?sort=top&t=month	;	Til Reddit
+	:?*:,grader		;	°			;	"Grader" tegnet
+	:?*:,bed		;	{U+1F64F}		;	Praying hands	
+	:?*:,spg		;	{U+2753}		;	Questionmark
+	:?*:,snak		;	{U+1F5E9}		;	SpeechBubble
+	:?*:,cirkel		;	{U+2022}		; 	Circle
+	:?*:,sved		;	{U+1F605}		; 	Sweat Emoji
+	:?*:,tænk		;	{U+1F914}		; 	Thinking emoji
+	:?*:,think		;	{U+1F914}		; 	Thinking emoji
+	:?*:,dk			;	{U+1F1E9}{U+1F1F0}	;	Danish Flag
+	:?*:,ra 		; 	{U+2192}		;	Right arrow
+	:?*:,la 		; 	{U+2190}		;	Left Arrow
+	:?*:,up 		; 	{U+2191}		;	Up arrow
+	:?*:,ua 		; 	{U+2191}		;	Up arrow
+	:?*:,da			; 	{U+2193}		;	Down arrow
+	:?*:,ch 		; 	{U+2611}		; 	Checkmark
+	:?*:,ok 		; 	{U+2611}		; 	Checkmark
+	:?*:,no 		; 	{U+274C}		; 	Cross
+	:?*:,vink		;	{U+1F44B}		; 	Hello hand
+	:?*:,stærk		;	{U+1F4AA}		; 	Stærk
+	:?*:,klokke		;	{U+1F514}		; 	Klokke
+	:?*:,rocket		;	{U+1F680}		;	Raket
+	:?*:,ild		;	{U+1F525}		;	Ild
+	:?*:,nørd		;	{U+1F913}		;	Nørd
+	:?*:,ost		;	{U+1F9C0}		;	Ost
+	:?*:,ked		;	{U+1F622}		;	Ked 
+	:?R*:,gms		;	https://mail.google.com/mail/u/0/#search/ 							; Denne hotstrig giver dig linket til at søge i din gmail
+	:?R*:,utm		;	utm_source={{site_source_name}}&utm_medium=social&utm_campaign={{campaign.name}}&utm_content=tmg 	; UTMstruktur
+#
